@@ -43,6 +43,6 @@
   "bugs": {
     "url": "https://gitlab.com/deca-currency/decasearch.git/issues"
   },
-  "homepage": "https://gitlab.com/deca-currency/decasearch.git",
+  "homepage": ".",
   "description": "DECA's Decentralized Carbon Credits Search Engine"
 }
